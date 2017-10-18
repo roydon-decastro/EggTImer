@@ -69,6 +69,7 @@ public class MainActivity extends AppCompatActivity {
                     Log.d("Egg Timer2: ", "Finished2");
                     Log.d("Egg Timer2: ", "Third save");
                     Log.d("Egg Timer2: ", "Fouth save");
+                    Log.d("Egg Timer2: ", "Fifth save");
 
                 }
             }.start();
